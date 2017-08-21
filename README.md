@@ -8,4 +8,4 @@ With Param file to GitHub
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/shrimpy/ArmParamterTemplateTest?ptmpl=https://raw.githubusercontent.com/shrimpy/ArmParamterTemplateTest/master/parameters.azuredeploy.json)
 
 Template file to Bitbucket
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://bitbucket.org/ehamai/helloworlddemomvc)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://bitbucket.org/ehamai/helloworlddemomvc?ptmpl=https://raw.githubusercontent.com/shrimpy/ArmParamterTemplateTest/master/parameters.azuredeploy.json)
