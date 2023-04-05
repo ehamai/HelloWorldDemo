@@ -4,4 +4,5 @@ Simple Hello World demo which shows that you can use the Azure Deploy Button wit
 
 THIS IS DUMMY AGAIN!
 
+THIS IS DUMMY DATA FROM NEW BRANCH
 <a href="https://azuredeploy.net" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
